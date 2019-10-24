@@ -2,14 +2,18 @@ body {
   font-family: sans-serif;
   color: black;
 }
-li {
-  list-style-type: none;
-}
-.container {
+
+.weather-app {
+  max-width: 800px;
   background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
   padding: 30px;
   align-content: center;
+  margin: 0 auto;
 }
+li {
+  list-style-type: none;
+}
+
 h1 {
   text-align: center;
   padding: 10px;
