@@ -1,40 +1,45 @@
 body {
-    font-family: sans-serif;
-    color: black;
-  }
-  li {
-    list-style-type: none;
-  }
-  .container {
-    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
-    width: 500px;
-    padding: 30px;
-    align-content: center;
-  }
-  h1 {
-    text-align: center;
-    padding: 10px;
-  }
-  form {
-    padding: 10px;
-    border-radius: 10px;
-  }
-  .city {
-    padding: 5px;
-  }
-  .fa-cloud {
-    color: lightslategray;
-    font-size: 50px;
-  }
-  .fa-cloud-sun {
-    color: lightslategray;
-    font-size: 50px;
-  }
-  .fa-sun {
-    color: lightslategray;
-    font-size: 50px;
-  }
-  .row {
-    text-align: center;
-  }
-  
+  font-family: sans-serif;
+  color: black;
+}
+li {
+  list-style-type: none;
+}
+.container {
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  padding: 30px;
+  align-content: center;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+form {
+  padding: 10px;
+  border-radius: 10px;
+}
+.city {
+  padding: 5px;
+}
+.fa-cloud {
+  color: lightslategray;
+  font-size: 50px;
+}
+.fa-cloud-sun {
+  color: lightslategray;
+  font-size: 50px;
+}
+.fa-sun {
+  color: lightslategray;
+  font-size: 50px;
+}
+.row {
+  text-align: center;
+}
+.days {
+  font-style: italic;
+}
+.actual-temperature {
+  font-size: 80px;
+  line-height: 1;
+}
