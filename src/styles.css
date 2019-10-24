@@ -24,12 +24,15 @@ body {
   }
   .fa-cloud {
     color: lightslategray;
+    font-size: 50px;
   }
   .fa-cloud-sun {
     color: lightslategray;
+    font-size: 50px;
   }
   .fa-sun {
     color: lightslategray;
+    font-size: 50px;
   }
   .row {
     text-align: center;
